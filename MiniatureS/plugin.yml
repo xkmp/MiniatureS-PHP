@@ -1,0 +1,24 @@
+name: MiniatureS
+main: MiniatureS\MiniatureS
+version: 2.0.0
+api: 
+ - 3.0.0
+ - 4.0.0
+load: POSTWORLD
+author: xiaokai
+description: 一个帅逼用的插件
+website: http://pmbox.top
+depend: FormAPI
+commands:
+ mis:
+  description: "附加功能主命令"
+  usage: "欲查看更多命令请键入 /mis help"
+  permission: MiniatureS.Command.mian
+ miniatureS:
+  description: "附加功能主命令"
+  usage: "欲查看更多命令请键入 /mis help"
+  permission: MiniatureS.Command.mian
+permissions:
+ MiniatureS.Command.mian:
+  description: "辅助功能主命令"
+  default: true
