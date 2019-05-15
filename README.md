@@ -10,10 +10,7 @@
 > - 按钮前显示自定义图片（资源包or网络图片）
 > - 点击按钮执行命令（控制台or玩家）
 > - 点击按钮打开界面（自定义界面）
-> - 拥有高度自由的可配置商店
-> - 多种商店购买方式
-> - 自动获取物品图标
-> - 智能控制黑名单白名单
+> - 自动获取物品名称
 
 # MiniatureS 该如何使用？
 
@@ -21,20 +18,14 @@
 
 | 命令 | 描述 | 用法 | 别名 | 权限 | 使用 |
 | ---- | :--: | :--: | :--: | :--: | :--: |
-| /admis | MiniatureS管理员命令 | /admis help | adminmis | MiniatureS.Command.Admin | false |
-| /shop | 超级商店主命令 | /shop help | 商店 | MiniatureS.Command.Shop | true |
-| /mis | 菜单工具主命令 | /mis help | 菜单 | MiniatureS.Command.main | true |
-
-
+| /mis | 附加功能主命令 | /mis help | miniatureS | MiniatureS.Command.main | true |
 
 ### 计划实现功能
 > - [x] 支持创建多个按钮
 > - [x] 点击按钮执行命令（控制台or玩家）
 > - [x] 点击按钮打开界面（自定义界面）
 > - [x] 按钮前显示自定义图片（资源包or网络图片）
-> - [x] UI商店，指令或UI控制，修改。
-> - [ ] 物品ID表，通过物品ID或名称获取ID或名称或图像路径
->   - [ ] `ItemIDSunName.java`
+> - [x] 物品ID表，通过物品ID获取名称
 
 ### 有问题反馈
 ###### 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
@@ -59,4 +50,3 @@
 
 <img src="https://raw.githubusercontent.com/xkmp/Test/master/Alipay-WinfXK.jpg" height="389" width="250" align="left"></img>
 <img src="https://raw.githubusercontent.com/xkmp/Test/master/Alipay-FFF.jpg" height="389" width="250" align="left"></img>
-----
