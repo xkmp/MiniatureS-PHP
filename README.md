@@ -37,12 +37,6 @@
   - QQ: [冰月] 2508543202
   - GayHub: [WinfXK](https://github.com/WinfXK)
 ---
-![](http://q2.qlogo.cn/headimg_dl?bs=2641541097&dst_uin=2641541097&dst_uin=2641541097&;dst_uin=2641541097&spec=100&url_enc=0&referer=bu_interface&term_type=PC)
-- FFF团长:
-  - Mail: keyapi@qq.com
-  - QQ: [3zero] 2641541097
-  - GitHub: [Anders](https://github.com/Anders233)
-
 ## 捐助开发者
 
 > 在兴趣的驱动下,写一个`免费`的东西，有欣喜，也还有汗水
@@ -50,4 +44,3 @@
 > 当然，有钱捧个钱场（下方支付宝捐助），没钱捧个人场，谢谢各位。
 
 <img src="https://raw.githubusercontent.com/xkmp/Test/master/Alipay-WinfXK.jpg" height="389" width="250" align="left"></img>
-<img src="https://raw.githubusercontent.com/xkmp/Test/master/Alipay-FFF.jpg" height="389" width="250" align="left"></img>
